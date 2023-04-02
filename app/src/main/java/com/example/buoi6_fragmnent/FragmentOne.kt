@@ -30,6 +30,10 @@ class FragmentOne : Fragment() {
         (activity as? FragmentOne)?.toasMak()
     }
 
+    private fun toasMak() {
+        var a : String = "VuMInhDuy"
+    }
+
 }
 
 
